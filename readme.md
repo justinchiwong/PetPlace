@@ -5,4 +5,8 @@ We're loving them as much as you, and that's why we created this page for acquir
 on all kind Information for our beloved ones.
 
 edit #3
+<<<<<<< HEAD
 hello does this work - justin
+=======
+hi friends
+>>>>>>> upstream/master
